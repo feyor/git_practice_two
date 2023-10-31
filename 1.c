@@ -19,4 +19,6 @@ int main()
 
     printf("TestGit_Test_Git");
     printf("NewCode_NewCode_NewCode");
+
+    printf("debug");
 }
