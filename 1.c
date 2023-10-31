@@ -18,5 +18,5 @@ int main()
     printf("Количество секунд, прошедших с начала последней минуты: %4d\n", get_off_integer);
 }
 void Hello(){
-    printf("Heelloo");
+    printf("Heelloooo");
 }
